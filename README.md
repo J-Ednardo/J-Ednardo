@@ -83,19 +83,11 @@ Meu nome é José Ednardo, tenho 20 anos e sou natural do Ceará. Atualmente, cu
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Vue.Js" 
+    title="Vue.Js"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" 
 />
 <img 
     align="left" 
