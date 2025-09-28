@@ -100,17 +100,3 @@ Meu nome é José Ednardo, tenho 20 anos e sou natural do Ceará. Atualmente, cu
 
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=J-Ednardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-</p>
