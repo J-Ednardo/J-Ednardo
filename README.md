@@ -97,13 +97,6 @@ Meu nome é José Ednardo, tenho 20 anos e sou natural do Ceará. Atualmente, cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img
-    align="left"
-    alt="Express"
-    title="Express"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
+
 
 <br/>
