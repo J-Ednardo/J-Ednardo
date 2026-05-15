@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** **`Cientista de dados`**
 
-Meu nome é José Ednardo, tenho 20 anos e sou natural do Ceará. Atualmente, curso Engenharia de Software na Universidade Federal do Ceará (UFC). Desde criança, sou apaixonado por tecnologia e, ao longo dos anos, essa curiosidade evoluiu para uma dedicação profissional. Hoje atuo como desenvolvedor fullstack, mas também tenho grande interesse por inteligência artificial e pela área de dados. Este espaço será dedicado a compartilhar meus projetos e materiais de estudo, refletindo minha jornada de aprendizado e desenvolvimento na área de tecnologia.
+Meu nome é José Ednardo, tenho 21 anos e sou natural do Ceará. Atualmente, curso Engenharia de Software na Universidade Federal do Ceará (UFC). Desde criança, sou apaixonado por tecnologia e, ao longo dos anos, essa curiosidade evoluiu para uma dedicação profissional. Hoje atuo como desenvolvedor fullstack, mas também tenho grande interesse por inteligência artificial e pela área de dados. Este espaço será dedicado a compartilhar meus projetos e materiais de estudo, refletindo minha jornada de aprendizado e desenvolvimento na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ednardo-dantas-80b2bb281">
